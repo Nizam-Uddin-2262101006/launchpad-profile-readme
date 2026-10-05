@@ -1,144 +1,18 @@
-<!-- 
-  <<< Author notes: Header of the course >>> 
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
--->
 
-# Launchpad: Profile README
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nizam-Uddin-2262101006&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Nizam-Uddin-2262101006&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nizam-Uddin-2262101006&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-_Say hello to your community._
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nizam-Uddin-2262101006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-<!-- 
-  <<< Author notes: Start of the course >>> 
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
-
-<details id=0 open>
-<summary><h2>Welcome</h2></summary>
-
-Say ‘Hello world’ with a profile README that lets you introduce yourself to the GitHub community. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub. This experience walks you through a quick tutorial to create your profile README.
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: How to create a public repository for use as a profile README.
-- **What you'll build**: We'll make a profile README file.
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This launchpad takes about 20 mins to complete.
-
-**About your profile README**
-
-You can share information about yourself with the community on GitHub.com by creating a profile README. GitHub shows your profile README at the top of your profile page. Here are some examples of information that visitors may find interesting, fun, or useful in your profile README.
-- An "About me" section that describes your work and interests
-- Contributions you're proud of, and context about those contributions
-- Guidance for getting help in communities where you're involved
-
-Here’s an example of a Campus Expert profile README
-<img width="1367" alt="Screen Shot 2023-03-13 at 2 55 41 PM" src="https://user-images.githubusercontent.com/107881423/224805660-26f7272f-6df1-42c0-b4c4-f3b2d790dd65.png">
-
-
-
-
-
-
-## Start Here
-
-1. **What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
-
-2. **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
-<br>:tv: [Video: Exploring a repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
-3. **Course tips:**
-GitHub will display your profile README on your profile page if all of the following are true:
- - You've created a repository with a name that matches your GitHub username.
- - The repository is public.
- - The repository contains a file named README.md in its root.
- - The README.md file contains any content.
-
-
-</details>
-
-<!-- 
-  <<< Author notes: Step 1 >>> 
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-<details id=1>
-<summary><h2>Adding a profile README</h2></summary>
-
-1. Open an additional tab in GitHub and follow the instructions below.
-
-2. In the upper-right corner of any page, click the ‘+’ and use the  drop-down menu, and select New repository.
-<img width="265" alt="Screen Shot 2023-03-13 at 3 27 56 PM" src="https://user-images.githubusercontent.com/107881423/224812150-895e1373-03c1-4208-83be-6f671eb41496.png">
-
-3. Under "Repository name", type a repository name that matches your GitHub username. For example, if your username is "octocat", the repository name must be "octocat".
-<img width="662" alt="Screen Shot 2023-03-13 at 3 28 06 PM" src="https://user-images.githubusercontent.com/107881423/224812371-3870872e-df11-4da8-8bbe-9d9ae3d57c3f.png">
-
-4. Optionally, add a description of your repository. For example, "My personal repository."
-<img width="643" alt="Screen Shot 2023-03-13 at 3 28 13 PM" src="https://user-images.githubusercontent.com/107881423/224812472-7c8da3b3-48fd-4d46-8ac6-dcadcef09d67.png">
-
-5. Select Public.
-<img width="651" alt="Screen Shot 2023-03-13 at 3 28 20 PM" src="https://user-images.githubusercontent.com/107881423/224812820-b40fd7a7-6802-4777-bf43-08c4b306efa9.png">
-
-6. Select Initialize this repository with a README.
-<img width="642" alt="Screen Shot 2023-03-13 at 3 28 28 PM" src="https://user-images.githubusercontent.com/107881423/224812890-790983ba-53d5-4eab-ba99-c46fb980b714.png">
-
-7. Click Create repository.
-<img width="646" alt="Screen Shot 2023-03-13 at 3 28 34 PM" src="https://user-images.githubusercontent.com/107881423/224813018-b15edbee-2765-414a-a14c-eacb2a85d7b7.png">
-
-8. Above the right sidebar, click Edit README.
-<img width="646" alt="Screen Shot 2023-03-13 at 3 28 41 PM" src="https://user-images.githubusercontent.com/107881423/224813085-b9f3df65-65dd-4d20-9298-1231f5b07e3b.png">
-
-9. The generated README file is pre-populated with a template to give you some inspiration for your profile README.
-<img width="659" alt="Screen Shot 2023-03-13 at 3 28 49 PM" src="https://user-images.githubusercontent.com/107881423/224813159-539f5b7d-ce1b-448e-bf92-f0c6d40f710f.png">
-
-To add a photo, simply drag the file from your computer into the text edit box and it will be uploaded in that section. For a summary of all the available emojis and their codes, see "Emoji cheat sheet."
-
-10. When you've made your customizations and want to save your work, select Commit Changes.
-<img width="353" alt="Screen Shot 2023-03-13 at 3 38 58 PM" src="https://user-images.githubusercontent.com/107881423/224814477-ccef9444-5e98-4aac-8f78-8960b678abf5.png">
-
-
-_You did it! :tada:_
-
-
-
-
-<!-- 
-  <<< Author notes: Finish >>> 
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-<details id=X>
-<summary><h2>Finish</h2></summary>
-
-_Congratulations, you've completed this launchpad and joined the world of developers!_
-
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
-
-
-### What's next?
-
-
-Check out these resources to learn more or get involved:
-- Check out the [Student Developer Pack](https://education.github.com/pack) for more resources and exclusive partner offers.
-- Explore more Experiences to help you make the most of your GitHub account.
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-
-
-</details>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Nizam-Uddin-2262101006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
